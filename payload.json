@@ -9,7 +9,7 @@
     {
       "autoDelete": true,
       "boot": true,
-      "deviceName": "slave1",
+      "deviceName": "slave4",
       "initializeParams": {
         "diskSizeGb": "10",
         "diskType": "projects/wired-torus-407913/zones/us-west4-b/diskTypes/pd-balanced",
@@ -35,7 +35,7 @@
       }
     ]
   },
-  "name": "slave1",
+  "name": "slave2",
   "networkInterfaces": [
     {
       "accessConfigs": [
